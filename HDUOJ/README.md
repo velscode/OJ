@@ -1,10 +1,10 @@
 # HDUOJ
 
-Update Time : 2019/02/25
+Update Time : 2021/03/23
 
-Rank : **19712**
+Rank : **17847**
 
-Problems Submitted : 78
+Problems Solved: 94 
 
 | Milepost  |        Date         |
 | :-------: | :-----------------: |
@@ -30,6 +30,18 @@ Problems Submitted : 78
 | [1003](http://acm.hdu.edu.cn/showproblem.php?pid=1003)  |  C   | 动态规划 最长子串和 |  [[源码]](./Codes/1003.cpp)  |                 [[题解]](./Reports/1003.md)                  | 2018-12-04 22:48:32 |
 | [1004](http://acm.hdu.edu.cn/showproblem.php?pid=1004)  |  E   |       字符串        |  [[源码]](./Codes/1004.cpp)  |                 [[题解]](./Reports/1004.md)                  | 2018-12-05 18:47:36 |
 | [1005](http://acm.hdu.edu.cn/showproblem.php?pid=1005)  |  D   |       循环节        |  [[源码]](./Codes/1005.cpp)  |                 [[题解]](./Reports/1005.md)                  | 2018-12-05 21:16:15 |
+| [1008](http://acm.hdu.edu.cn/showproblem.php?pid=1008)  |  E   |       水题        |  [[源码]](./Codes/1008.cpp)  |-| 2020-09-17 17:17:33 |
+| [1010](http://acm.hdu.edu.cn/showproblem.php?pid=1010) | C | DFS | [[源码]](./Codes/1010.cpp) || 2020-09-18 10:15:04 |
+| [1012](http://acm.hdu.edu.cn/showproblem.php?pid=1012) | D | 数学 | [[源码]](./Codes/1012.c) || 2020-09-21 09:10:01 |
+| [1013](http://acm.hdu.edu.cn/showproblem.php?pid=1013) | D | 循环/字符串 | [[源码]](./Codes/1013.cpp) || 2020-09-21 09:56:19 |
+| [1014](http://acm.hdu.edu.cn/showproblem.php?pid=1014) | C- | 数论/最大公因数 | [[源码]](./Codes/1014.c) || 2020-09-23 10:21:33 |
+| [1015](http://acm.hdu.edu.cn/showproblem.php?pid=1015) | D | 暴力 | [[源码]](./Codes/1015.cpp) || 2020-09-23 11:18:50 |
+| [1016](http://acm.hdu.edu.cn/showproblem.php?pid=1016) | C | 数论/素数+DFS | [[源码]](./Codes/1016.cpp) || 2020-09-23 16:26:41 |
+| [1017](http://acm.hdu.edu.cn/showproblem.php?pid=1017) | E | 水题/循环 | [[源码]](./Codes/1017.cpp) || 2020-09-23 16:49:03 |
+| [1018](http://acm.hdu.edu.cn/showproblem.php?pid=1018) | C | 数论/斯特灵公式 | [[源码]](./Codes/1018.c) || 2020-09-23 17:10:20 |
+| [1019](http://acm.hdu.edu.cn/showproblem.php?pid=1019) | C- | 数论/最大公因数 | [[源码]](./Codes/1019.cpp) || 2020-09-24 09:47:44 |
+| [1020](http://acm.hdu.edu.cn/showproblem.php?pid=1020) | D | 字符串 | [[源码]](./Codes/1020.cpp) || 2020-09-24 10:01:20 |
+| [1021](http://acm.hdu.edu.cn/showproblem.php?pid=1021) | D | 数论/数列/斐波那契数列 | [[源码]](./Codes/1021.c) || 2020-09-24 10:51:19 |
 | [1064](http://acm.hdu.edu.cn/showproblem.php?pid=1064)  |  E   |      基础数学       |  [[源码]](./Codes/1064.cpp)  |                 [[题解]](./Reports/1064.md)                  | 2019-01-31 09:36:16 |
 | [1089](http://acm.hdu.edu.cn/showproblem.php?pid=1089)  |  E   |      格式练习       | [[源码]]( ./Codes/1089.cpp ) |                              -                               | 2019-01-30 17:08:02 |
 | [1090](http://acm.hdu.edu.cn/showproblem.php?pid=1090)  |  E   |    格式练习 循环    | [[源码]]( ./Codes/1090.cpp ) |                              -                               | 2019-01-30 17:24:48 |
@@ -87,6 +99,7 @@ Problems Submitted : 78
 | [2046](http://acm.hdu.edu.cn/showproblem.php?pid=2046)  |  D   |  递推 斐波那契数列  |  [[源码]](./Codes/2046.cpp)  |                              待                              | 2019-02-15 15:34:30 |
 | [2047](http://acm.hdu.edu.cn/showproblem.php?pid=2047)  |  D   |        递推         |  [[源码]](./Codes/2047.cpp)  |                              待                              | 2019-02-15 18:15:28 |
 | [2048](http://acm.hdu.edu.cn/showproblem.php?pid=2048)  |  C   |      错排问题       |  [[源码]](./Codes/2048.cpp)  |                              待                              | 2019-02-17 12:46:20 |
+| [2049](http://acm.hdu.edu.cn/showproblem.php?pid=2049) |  |  |  |  |  |
 | [2050](http://acm.hdu.edu.cn/showproblem.php?pid=2050)  |  D   |        递推         |  [[源码]](./Codes/2050.cpp)  |                              待                              | 2019-02-17 13:27:30 |
 | [2051](http://acm.hdu.edu.cn/showproblem.php?pid=2051)  |  C   |   数据结构基础 栈   |  [[源码]](./Codes/2051.cpp)  |                              -                               | 2019-02-17 17:10:59 |
 | [2052](http://acm.hdu.edu.cn/showproblem.php?pid=2052)  |  E   |        循环         |  [[源码]](./Codes/2052.cpp)  |                              -                               | 2019-02-17 17:16:13 |
@@ -98,7 +111,11 @@ Problems Submitted : 78
 | [2058](http://acm.hdu.edu.cn/showproblem.php?pid=2058)  |  D   |    数学 等差数列    |  [[源码]](./Codes/2058.cpp)  |                 [[题解]](./Reports/2058.md)                  | 2019-02-19 13:04:25 |
 | [2060](http://acm.hdu.edu.cn/showproblem.php?pid=2060)  |  E   |    英文阅读基础     |  [[源码]](./Codes/2060.cpp)  |                 [[题解]](./Reports/2060.md)                  | 2019-02-19 14:34:34 |
 | [2061](http://acm.hdu.edu.cn/showproblem.php?pid=2061)  |  E   |    英文阅读基础     |  [[源码]](./Codes/2061.cpp)  |                 [[题解]](./Reports/2061.md)                  | 2019-02-25 14:02:44 |
+| [2062](http://acm.hdu.edu.cn/showproblem.php?pid=2062) | C | 排列组合 | [[源码]](./Codes/2062.c) |  | 2020-09-16 20:26:13 |
+| [2063](http://acm.hdu.edu.cn/showproblem.php?pid=2063) | C | 图论/二分图 | - | - | 2020-09-16 18:44:30 |
 | [2074](http://acm.hdu.edu.cn/showproblem.php?pid=2074)  |  D   |        循环         |  [[源码]](./Codes/2074.cpp)  |                              待                              | 2019-02-25 21:55:56 |
 | [2075](http://acm.hdu.edu.cn/showproblem.php?pid=2075)  |  E   |      基础数学       |  [[源码]](./Codes/2075.cpp)  |                              -                               | 2019-02-25 14:11:52 |
 | [2081](http://acm.hdu.edu.cn/showproblem.php?pid=2081)  |  E   |          -          |  [[源码]](./Codes/2081.cpp)  |                              -                               | 2019-02-24 11:47:15 |
 | [2090](http://acm.hdu.edu.cn/showproblem.php?pid=2090)  |  E   |      基础数学       |  [[源码]](./Codes/2090.cpp)  |                              -                               | 2019-02-24 14:31:41 |
+| [2095](http://acm.hdu.edu.cn/showproblem.php?pid=2095) | E | 水题 | [[源码]](./Codes/2095.cpp) | - | 2020-09-25 11:51:39 |
+

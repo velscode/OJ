@@ -102,6 +102,40 @@
 | [309 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |           |             |                     |        |
 | [315 计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) |           |             |                     |        |
 | [343 整数拆分](https://leetcode-cn.com/problems/integer-break/) |           |             |                     |        |
+| [357 计算各个位数不同的数字个数](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/) |           |             |                     |        |
+| [378 有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) |           |             |                     |        |
+| [389 找不同](https://leetcode-cn.com/problems/find-the-difference/) |           |             |                     |        |
+| [404 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) |           |             |                     |        |
+| [415 字符串相加](https://leetcode-cn.com/problems/add-strings/) |           |             |                     |        |
+| [461 汉明距离](https://leetcode-cn.com/problems/hamming-distance/) |           |             |                     |        |
+| [495 提莫攻击](https://leetcode-cn.com/problems/teemo-attacking/) |           |             |                     |        |
+| [509 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) |           |             |                     |        |
+| [513 找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/) |           |             |                     |        |
+| [535 TinyURL 的加密与解密](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/) |           |             |                     |        |
+| [538 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) |           |             |                     |        |
+| [547 省份数量](https://leetcode-cn.com/problems/number-of-provinces/) |           |             |                     |        |
+| [617 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) |           |             |                     |        |
+| [636 函数的独占时间](https://leetcode-cn.com/problems/exclusive-time-of-functions/) |           |             |                     |        |
+| [637 二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) |           |             |                     |        |
+| [647 回文子串](https://leetcode-cn.com/problems/palindromic-substrings/) |           |             |                     |        |
+| [649 Dota2 参议院](https://leetcode-cn.com/problems/dota2-senate/) |           |             |                     |        |
+| [657 机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/) |           |             |                     |        |
+| [669 修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) |           |             |                     |        |
+| [697 数组的度](https://leetcode-cn.com/problems/degree-of-an-array/) |           |             |                     |        |
+| [700 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) |           |             |                     |        |
+| [709 转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/) |           |             |                     |        |
+| [718 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) |           |             |                     |        |
+|                                                              |           |             |                     |        |
+|                                                              |           |             |                     |        |
+|                                                              |           |             |                     |        |
+|                                                              |           |             |                     |        |
+|                                                              |           |             |                     |        |
+|                                                              |           |             |                     |        |
+|                                                              |           |             |                     |        |
+|                                                              |           |             |                     |        |
+|                                                              |           |             |                     |        |
+|                                                              |           |             |                     |        |
+|                                                              |           |             |                     |        |
 |                                                              |           |             |                     |        |
 |                                                              |           |             |                     |        |
 |                                                              |           |             |                     |        |

@@ -144,6 +144,7 @@
 | [994 腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/) |           |             |                     |        |
 | [997 找到小镇的法官](https://leetcode-cn.com/problems/find-the-town-judge/) |           |             |                     |        |
 | [1004 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) |           |             |                     |        |
+| [1006 笨阶乘](https://leetcode-cn.com/problems/clumsy-factorial/) |           |             |                     |        |
 | [1014 最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/) |           |             |                     |        |
 | [1022 从根到叶的二进制数之和](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers/) |           |             |                     |        |
 | [1028 从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/) |           |             |                     |        |
